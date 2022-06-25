@@ -1,5 +1,5 @@
 # Blender MTL File: 'fire_flower.blend'
-# Material Count: 4
+# Material Count: 1
 
 newmtl Material_Fire_Flower_1
 Ns 250.000000
@@ -11,36 +11,3 @@ Ni 1.450000
 d 1.000000
 illum 2
 map_Kd fire_flower_1_texture.png
-
-newmtl Material_Fire_Flower_2
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd fire_flower_2_texture.png
-
-newmtl Material_Fire_Flower_3
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd fire_flower_3_texture.png
-
-newmtl Material_Fire_Flower_4
-Ns 250.000000
-Ka 1.000000 1.000000 1.000000
-Kd 0.800000 0.800000 0.800000
-Ks 0.500000 0.500000 0.500000
-Ke 0.000000 0.000000 0.000000
-Ni 1.450000
-d 1.000000
-illum 2
-map_Kd fire_flower_4_texture.png
