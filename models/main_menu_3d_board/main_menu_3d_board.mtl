@@ -1,0 +1,12 @@
+# Blender 3.3.1 MTL File: 'main_menu_3d_board.blend'
+# www.blender.org
+
+newmtl Material_Main_Menu_3D_Board
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.300000 0.300000 0.300000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd main_menu_3d_board_texture.png
